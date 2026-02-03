@@ -18,7 +18,7 @@
   <a href="https://www.instagram.com/Luislopes07_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="30" alt="instagram logo"  />
   </a>
-  <a href="luislopesdev1@gmail.com" target="_blank">
+  <a href="https://luislopesdev1@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/luislopesdev1/" target="_blank">
