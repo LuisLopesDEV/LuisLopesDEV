@@ -56,7 +56,6 @@ Apaixonado por aprender novas tecnologias e criar soluções reais.</p>
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LuislopesDEV/LuislopesDEV/output/github-contribution-grid-snake.svg">
 </picture>
 
-<hr />
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
