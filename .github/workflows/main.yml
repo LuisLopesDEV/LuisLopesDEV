@@ -1,5 +1,3 @@
-## ATENÇÃO O CÓDIGO ABAIXO DEVE SER COLADO DENTRO DO MAIN.YML
-
 name: generate animation
 
 on:
