@@ -7,7 +7,11 @@ on:
   
   # allows to manually run the job at any time
   workflow_dispatch:
-  
+    inputs:
+      environment:
+        description: 'The environment to deploy to'
+        required: true
+        default: 'production'
   # run on every push on the master branch
   push:
     branches:
