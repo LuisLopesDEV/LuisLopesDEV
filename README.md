@@ -1,6 +1,6 @@
 <h2 align="left">Olá 👋! Eu sou o Luis Felipe</h2>
 <p>Sou um desenvolvedor em início de carreira, focado em <b>Python, back-end</b> e <b>segurança em autenticação de usuários</b>.  
-Apaixonado por aprender novas tecnologias e criar soluções reais.</p>
+Apaixonado por aprender novas tecnologias.</p>
 
 <hr />
 <div align="center">
