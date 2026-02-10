@@ -16,7 +16,7 @@
 
 <hr />
 
-<h3 align="left">🌟 Projeto em destaque</h3>
+<h3 align="left">🌟 Projetos em destaque</h3>
 
 <h4><a href="https://github.com/LuisLopesDEV/Login-withMySQL">Sistema de Login com Python e MySQL</a></h4>
 
@@ -33,6 +33,36 @@ Ideal para aprender conceitos de autenticação segura e back-end em Python.</p>
 
 <h5>Conceitos aplicados:</h5>
 <p>Programação Orientada a Objetos (POO), separação de responsabilidades, SQL seguro com prepared statements e controle de sessão no back-end.</p>
+
+<hr />
+<h4>
+  <a href="https://github.com/LuisLopesDEV/user-management-api">
+    User Management API (FastAPI + JWT)
+  </a>
+</h4>
+
+<p>
+API REST para <b>autenticação de usuários</b> e <b>gerenciamento de recursos protegidos</b>,
+com foco em <b>segurança</b>, <b>controle de acesso</b> e <b>arquitetura de back-end</b>.
+Projeto desenvolvido simulando um <b>freela real</b>, seguindo práticas de mercado.
+</p>
+
+<h5>Funcionalidades:</h5>
+<ul>
+  <li>Login com autenticação via <b>JWT</b></li>
+  <li>Hash seguro de senhas com <b>bcrypt</b></li>
+  <li>Controle de acesso por perfil (<b>user / admin</b>)</li>
+  <li>CRUD de usuários com regras de segurança</li>
+  <li>CRUD de pedidos com validação de dono do recurso</li>
+  <li>Logout com invalidação de token</li>
+</ul>
+
+<h5>Conceitos aplicados:</h5>
+<p>
+FastAPI, JWT, controle de acesso baseado em papéis (RBAC),
+validação de dados com Pydantic, SQLAlchemy ORM,
+boas práticas de status HTTP e separação de responsabilidades.
+</p>
 
 <hr />
 
